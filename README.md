@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @riverbobby
 - 👀 I’m interested in jump-starting a career in software development.
-- 🌱 I’m currently learning C#, and dabbling in SalesForce.
+- 🌱 I’m currently learning C#, Flutter, and dabbling in SalesForce.
 - 📫 How to reach me: justin.d.townley@gmail.com
